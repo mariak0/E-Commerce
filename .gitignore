@@ -1,0 +1,10 @@
+/wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/backup/
+/wp-content/upgrade/
+/wp-content/wflogs/
+/wp-content/plugins/
+/wp-content/themes/
+/wp-content/languages/
+
